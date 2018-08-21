@@ -22,7 +22,7 @@ gc()
 library(randomNames)
 
 ## Specify output file
-salesfile <- "/users/cspenn/desktop/salesfile.csv"
+salesfile <- "/PATH/TO/YOUR/DESKTOP/salesfile.csv" ## Configure for your machine
 numRecords <-  as.integer(5000)
 numReps <- as.integer(8)
 numDays <- as.integer(50)
